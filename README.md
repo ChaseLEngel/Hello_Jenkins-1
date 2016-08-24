@@ -1,4 +1,6 @@
 [![Build Status](http://jenkins.chico.liatr.io/job/Jenkins_Sample/badge/icon)](http://jenkins.chico.liatr.io/job/Jenkins_Sample/)
+adding to the readme
+
 ##Hello_Jenkins
 This simple exercise is designed to introduce you to Jenkins and continuous
 integration. This will be done in teams of 5 but we will all be working on one
